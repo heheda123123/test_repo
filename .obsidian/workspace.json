@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kk.md",
+                "file": "t1.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kk.md",
+                "file": "t1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,9 @@
   },
   "active": "587c9d5bcf5c7dd2",
   "lastOpenFiles": [
-    "kk.md",
     "README.md",
+    "kk.md",
+    "未命名.canvas",
     "t1.md"
   ]
 }
